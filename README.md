@@ -19,7 +19,8 @@ Hugging Face Transformers provides several key supporting components to streamli
         * `[MASK]` (Used for masked language modeling)
 * **Diagram:**
 
-[Image of Text Tokenization Process]
+![image](https://github.com/user-attachments/assets/4930df25-5e1d-4be7-b355-84251beb25af)
+
 
 **2. Processors:**
 
@@ -49,7 +50,8 @@ Hugging Face Transformers provides several key supporting components to streamli
     * **Pre-trained Models:** Leverage pre-trained models from the Hugging Face Model Hub.
 * **Diagram:**
 
-[Image of Hugging Face Pipeline Architecture]
+![image](https://github.com/user-attachments/assets/8ab0fbfc-20b8-42dc-9877-656988241aff)
+
 
 **4. Model Hub:**
 
